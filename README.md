@@ -20,8 +20,8 @@ Back-End code is inside **E-MArket-REST-API** folder
 
 Few Screenshots of website are provided.
 
-![image-1](https://github.com/Jaweria-Saeed/Pakistan-local-shop/edit/main/emarket (1).png)
-!{image-2](https://github.com/Jaweria-Saeed/Pakistan-local-shop/edit/main/emarket (2).png)
-![image-3](https://github.com/Jaweria-Saeed/Pakistan-local-shop/edit/main/emarket (3).png)
-![image-4](https://github.com/Jaweria-Saeed/Pakistan-local-shop/edit/main/emarket (4).png)
-![image-5](https://github.com/Jaweria-Saeed/Pakistan-local-shop/edit/main/emarket (5).png)
+![image-1](https://github.com/Jaweria-Saeed/Pakistan-local-shop/blob/main/emarket%20(1).png)
+![image-2](https://github.com/Jaweria-Saeed/Pakistan-local-shop/blob/main/emarket%20(2).png)
+![image-3](https://github.com/Jaweria-Saeed/Pakistan-local-shop/blob/main/emarket%20(3).png)
+![image-4](https://github.com/Jaweria-Saeed/Pakistan-local-shop/blob/main/emarket%20(4).png)
+![image-5](https://github.com/Jaweria-Saeed/Pakistan-local-shop/blob/main/emarket%20(5).png)
